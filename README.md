@@ -11,6 +11,12 @@
 * credit_card.csv: Transactional data including amounts and categories.
 * customer.csv: Customer information including demographics and account details.
 
+## Dashboard Images
+![Customer Demographics Dashboard](https://github.com/Ankit2002gaidhar/Credit-Card-Dashboard-/blob/main/Credit%20Card%20customer%20Dashboard.png)
+
+![Transaction Trends Dashboard](https://github.com/Ankit2002gaidhar/Credit-Card-Dashboard-/blob/main/Credit%20Card%20Transaction%20Dashboard.png)
+
+
 # Key Insights 
 * Total Revenue : 55M
 *  Week over week :-12.8%
